@@ -13,3 +13,5 @@ If stdIcon is "nil" than the backdrop will be applied, if that is defined.
 
 Issues: In a built app the directories containing the images should be located in the Resource directory. 
 Be sure to copy these files there after a build. 
+
+For comments or suggestions: hvanschaick [at] ast-software.nl
